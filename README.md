@@ -164,9 +164,9 @@ void loop() {
 
 
 ## Schematics and PCBs ##
-The software has been tested on a Pico 2 board, using the following RSBus master schematics.
+The software has been tested on a Pico 2 board, using the following RSBus master schematics (see also: Der-Moba).
 [![schematics](extras/Schematics.png)](extras/Schematics.png)
-IA PCB for a complete master station will soon be available from the EasyEda homepage:
+A PCB for a complete master station will soon be available from the EasyEda homepage:
 [https://easyeda.com/aikopras](https://easyeda.com/aikopras)
 
 
