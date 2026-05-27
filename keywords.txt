@@ -1,0 +1,31 @@
+#########################################
+# Syntax Coloring Map For RSbusMaster
+#########################################
+
+#########################################
+# Datatypes (KEYWORD1)
+#########################################
+RsMaster			KEYWORD1
+RsEntry				KEYWORD1
+FbState				KEYWORD1
+
+#########################################
+# Methods and Functions (KEYWORD2)
+#########################################
+init				KEYWORD2
+start				KEYWORD2
+stop				KEYWORD2
+abort				KEYWORD2
+getRsFeedbacks			KEYWORD2
+
+#########################################
+# Instances (KEYWORD2)
+#########################################
+rsBus				KEYWORD2
+
+#########################################
+# Constants (LITERAL1)
+#########################################
+newestIndex			LITERAL1
+rsQueue				LITERAL1
+fbState				LITERAL1
