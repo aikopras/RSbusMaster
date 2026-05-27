@@ -150,6 +150,9 @@ void loop() {
 }
 ```
 
+## Support pages ##
+- [Basic operation](extras/BasicOperation.md) — RS-Bus protocol, timing, majority voting, parity and error handling
+- [PIO assembly code](extras/pio.md) — detailed explanation of the PIO programme that drives pulse generation and feedback reception
 
 ## Release notes ##
 
