@@ -103,7 +103,7 @@ Shows the address, data and nibble number for each received message.
 
 ### FeedbackMonitor ###
 Uses `getRsFeedbacks()` to receive up to 7 address/data pairs per call.
-Prints all received feedback in a compact format.
+Prints all received feedback in a compact format. Preferred example for further XpressNet code.
 
 ### Statistics ###
 Reads the `fbState[]` table and prints per-address statistics:
